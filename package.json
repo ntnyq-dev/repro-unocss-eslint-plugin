@@ -1,0 +1,13 @@
+{
+  "name": "repro-unocss-eslint-plugin",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@unocss/eslint-config": "^0.64.1",
+    "eslint": "^9.15.0",
+    "eslint-plugin-vue": "^9.31.0",
+    "typescript": "^5.7.2",
+    "unocss": "^0.64.1"
+  }
+}
